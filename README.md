@@ -32,8 +32,7 @@ Hello! I'm Monika, a detail-oriented and passionate Software QA Engineer with 1.
 ---
 
 ### 📫 Connect with Me
-
-- 📄 [My QA Portfolio (Notion)](link-coming-soon)  
+ 
 - 💼 [LinkedIn](https://www.linkedin.com/in/monikasarkar1809)  
 - ✉️ Email: monikasarkar1809@gmail.com
 
