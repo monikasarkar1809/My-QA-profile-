@@ -15,6 +15,8 @@ Hello! I'm Monika, a detail-oriented and passionate Software QA Engineer with 1.
 ### 🧪 QA Projects
 📌 [Login Test Case (Excel)](https://docs.google.com/spreadsheets/d/1R10ysCS7JSAs83iAobD1TGo_vtO1xzg1T3PL-MYrt-Y/edit?gid=0#gid=0)  
 📌 [API Test Collection (Postman)](https://drive.google.com/file/d/1GDdIAUAJ5ZYm7q4i86PZZ1_eMJOFGTq8/view?usp=sharing)
+📌 [Login Test Case (Excel)]  (https://docs.google.com/spreadsheets/d/1_yASleMSMrlNjZt0iL_5Wh0Y4pWw1pLzyAyIZAKQ80U/edit?gid=0#gid=0)
+📌 [API Test Collection (Postman)](https://drive.google.com/file/d/1Yli-4UmSyV2TDdkNfwbjHvZ0wun8au9t/view?usp=sharing)
 
 ---
 
