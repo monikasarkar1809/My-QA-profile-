@@ -4,11 +4,11 @@
 
 Hello! I'm Monika, a detail-oriented and passionate Software QA Engineer with 1.5 years of hands-on experience in:
 
-- ✅ Manual Testing (Web + Mobile apps)  
-- ✅ API Testing using Postman  
-- ✅ Salesforce QA (CRM workflows, lead validation)  
-- ✅ Bug Tracking & Reporting with Jira  
-- ✅ Basic Selenium and SOQL knowledge
+- ✅ Manual Testing (Web + Mobile apps).  
+- ✅ API Testing using Postman .
+- ✅ Salesforce QA (CRM workflows, lead validation). 
+- ✅ Bug Tracking & Reporting with Jira.  
+- ✅ Basic Selenium and SOQL knowledge.
 
 ---
 
