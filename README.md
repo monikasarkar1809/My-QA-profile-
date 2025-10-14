@@ -9,6 +9,7 @@ Hello! I'm Monika, a detail-oriented and passionate Software QA Engineer with 1.
 - ✅ Salesforce QA (CRM workflows, lead validation). 
 - ✅ Bug Tracking & Reporting with Jira.  
 - ✅ Basic Selenium and SOQL knowledge.
+- ✅ Basic JMeter
 
 ---
 
