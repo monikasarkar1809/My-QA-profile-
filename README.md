@@ -28,7 +28,7 @@ Hello! I'm Monika, a detail-oriented and passionate Software QA Engineer with 1.
 - 🧠 Salesforce AI Associate  
 - ⚙️ Agile Project Management with Jira Cloud  
 - 🔍 Business Analysis: Tools & Techniques  
-- 🐍 Python Fundamentals Certificate
+- 🐍 Python Fundamentals Certificate.
 
 ---
 
