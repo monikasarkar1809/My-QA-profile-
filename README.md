@@ -10,6 +10,8 @@ Hello! I'm Monika, a detail-oriented and passionate Software QA Engineer with 1.
 - ✅ Bug Tracking & Reporting with Jira.  
 - ✅ Basic Selenium and SOQL knowledge.
 - ✅ Basic JMeter
+  
+![image alt](https://github.com/monikasarkar1809/My-QA-profile-/blob/505eef0ef7c25f505a4fc6d6a4714b3a29515943/Software%20QA.png)
 
 ---
 
